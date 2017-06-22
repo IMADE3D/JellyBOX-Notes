@@ -12,7 +12,8 @@ _~Filip from the IMADE3D<br>team that likes it hot._
 
 <hr>
 
-## CLICK HERE FOR INSTRUCTIONS: [http://go.imade3d.com/upgrades](http://go.imade3d.com/upgrades)
+## CLICK HERE FOR ASSEMBLY INSTRUCTIONS:
+[http://go.imade3d.com/upgrades](http://go.imade3d.com/upgrades)
 - you will get to the JellyBOX Upgrade Guides, and we have there a handy guide to get you through upgrading heated bed.
 
 ## SUPPORT
